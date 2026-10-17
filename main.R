@@ -597,3 +597,4 @@ control_pooled_diff <- rbind(boston_diff,
                              philadelphia_diff,
                              new_york_diff,
                              san_francisco_diff)
+
